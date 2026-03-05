@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?logo=streamlit\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-orange?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)(https://reswv3pwnt6g9yj8pqguse.streamlit.app/)
+![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)(https://reswv3pwnt6g9yj8pqguse.streamlit.app/]
 
 A simple **Machine Learning web application** built with **Streamlit** that predicts employee salary based on **position level** using **Support Vector Regression (SVR)**.
 
@@ -16,7 +16,7 @@ The goal of this project is to demonstrate how a trained **machine learning mode
 
 Click below to try the app:
 
-👉 ![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)(https://reswv3pwnt6g9yj8pqguse.streamlit.app/)
+👉 ![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=streamlit)[https://reswv3pwnt6g9yj8pqguse.streamlit.app/]
 
 ---
 
