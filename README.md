@@ -89,7 +89,7 @@ svr_salary_app
 
 ## 👨‍💻 Author
 
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
 
 ---
 
